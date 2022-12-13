@@ -1,0 +1,127 @@
+header {
+  height: 83px;
+  background-color: #f4f4f4;
+}
+
+.navLink {
+  font-size: 20px;
+  color: #616060;
+  font-family: "Lato";
+  margin-top: 10px;
+  font-weight: 400;
+}
+
+.helloText {
+  font-size: 48px;
+  line-height: 49px;
+  color: #151515;
+  font-weight: 700;
+  font-family: "PlayfairDisplaySC";
+  margin-top: 90px;
+}
+
+.userIcon, .Tunisia {
+  font-size: 36px;
+  color: #141414;
+}
+
+.Tunisia {
+  letter-spacing: -1px;
+  line-height: 51px;
+  font-family: "Myriad Pro";
+  margin-left: 20px;
+}
+
+.workTitle {
+  font-size: 35px;
+  letter-spacing: -1px;
+  line-height: 41px;
+  color: #bc694e;
+  font-weight: 700;
+  font-family: "Playfair Display SC";
+  margin-top: 130px;
+}
+
+.bagIcon {
+  margin-top: 140px;
+  font-size: 35px;
+  color: #333333;
+}
+
+.date {
+  font-size: 24px;
+  line-height: 25px;
+  color: #848484;
+  font-weight: 400;
+  font-family: "Lato";
+  margin-top: 20px;
+}
+
+.experience {
+  font-size: 30px;
+  line-height: 25px;
+  color: #4f4f4f;
+  font-weight: 700;
+  font-family: "Lato";
+  margin-top: 10px;
+}
+
+.position {
+  font-size: 18px;
+  line-height: 25px;
+  color: #848484;
+  font-weight: 400;
+  font-family: "Lato";
+  margin-rop: 10px;
+}
+
+.awardText {
+  font-size: 24px;
+  line-height: 28px;
+  color: #4f4f4f;
+  font-weight: 400;
+  font-family: "Lato";
+  margin-top: 20px;
+}
+
+.backgroundImage {
+  background-image: url("../images/background.png");
+  height: 440px;
+  display: flex;
+  justify-content: center;
+}
+
+.backgroundText {
+  font-size: 35px;
+  line-height: 42px;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Playfair Display SC";
+  padding: 20px;
+  padding-left: 35px;
+  border: 3px solid white;
+  width: 600px;
+  height: 140px;
+  margin-top: 30px;
+}
+
+.footerBackground {
+  height: 130px;
+  display: flex;
+  color: #616060;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.copyright {
+  font-size: 18px;
+  line-height: 0px;
+  color: #141414;
+  font-weight: 400;
+  font-family: "Lato";
+  text-align: left;
+}
+
+/*# sourceMappingURL=style.css.map */
+
+/*# sourceMappingURL=style.scss.map */
